@@ -1,5 +1,3 @@
-> The code will be released soon.
-
 # ET-MVSNet
 
 ## [Paper]() | [Project Page]() | [Arxiv]()
