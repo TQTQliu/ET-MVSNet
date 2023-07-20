@@ -1,3 +1,5 @@
+> The code will be released soon.
+
 # ET-MVSNet
 
 ## [Paper]() | [Project Page]() | [Arxiv]()
@@ -15,5 +17,3 @@ Learning-based multi-view stereo (MVS) method heavily relies on feature matching
 <p align="center">
 <img src="assets/overview.png" width="100%">
 </p>
-
-> The code will be released soon.
