@@ -72,6 +72,10 @@ tanksandtemples
 ```
 We use the camera parameters of short depth range version (included in your download), you should replace the `cams` folder in `intermediate` folder with the short depth range version manually.
 
+Or you can download our processed data [here](https://drive.google.com/file/d/17mTgTzjPV1KsazabRIU0J3p0_ogufi5R/view?usp=sharing).
+
+We recommend the latter.
+
 
 
 ## Training
